@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/slot-machine-react-frontend/static/css/main.3e575c6b.chunk.css",
+    "main.js": "/slot-machine-react-frontend/static/js/main.70c57004.chunk.js",
+    "main.js.map": "/slot-machine-react-frontend/static/js/main.70c57004.chunk.js.map",
+    "runtime-main.js": "/slot-machine-react-frontend/static/js/runtime-main.c478858e.js",
+    "runtime-main.js.map": "/slot-machine-react-frontend/static/js/runtime-main.c478858e.js.map",
+    "static/css/2.081f420c.chunk.css": "/slot-machine-react-frontend/static/css/2.081f420c.chunk.css",
+    "static/js/2.29f71c5b.chunk.js": "/slot-machine-react-frontend/static/js/2.29f71c5b.chunk.js",
+    "static/js/2.29f71c5b.chunk.js.map": "/slot-machine-react-frontend/static/js/2.29f71c5b.chunk.js.map",
+    "index.html": "/slot-machine-react-frontend/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/slot-machine-react-frontend/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.3e575c6b.chunk.css.map": "/slot-machine-react-frontend/static/css/main.3e575c6b.chunk.css.map",
+    "static/js/2.29f71c5b.chunk.js.LICENSE.txt": "/slot-machine-react-frontend/static/js/2.29f71c5b.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/slot-machine-react-frontend/static/media/watermelon.8902e7dc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c478858e.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.29f71c5b.chunk.js",
+    "static/css/main.3e575c6b.chunk.css",
+    "static/js/main.70c57004.chunk.js"
+  ]
+}
