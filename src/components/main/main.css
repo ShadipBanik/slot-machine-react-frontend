@@ -1,0 +1,112 @@
+a{
+	color: #283593;
+	text-decoration: none;
+}
+h3{
+	margin-top: 12px;
+}
+section#status{
+	margin-bottom: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	border-radius: 5px;
+	text-align: center;
+	background-color: #37474F;
+	color: #FFFFFF;
+	font-size: 25px;
+	font-family: 'Roboto Mono', monospace;
+}
+section#Slots{
+	border-radius: 15px;
+	background-color: #FAFAFA;
+}
+section#Gira{
+	margin-top: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	border-radius: 5px;
+	text-align: center;
+	background-color: #AB47BC;
+	color: #FFFFFF;
+	font-size: 25px;
+}
+section#Gira:hover{
+	background-color: #BA68C8;
+}
+section#options{
+	margin-top: 20px;
+	padding-top: 5px;
+	border-radius: 5px;
+	background-color: #C62828;
+	color: #FFFFFF;
+}
+.option{
+	padding-left: 5px;
+}
+section#info{
+	background-color: #616161;
+	padding-left: 12px;
+	padding-bottom: 12px;
+	border-radius: 5px;
+	overflow: hidden;
+	animation-duration: 1s;
+	color: #BDBDBD;
+	margin-top: 50px;
+	margin-left: 30%;
+	margin-right: 30%;
+	display: none;
+}
+#slot1, #slot2, #slot3{
+  border: 9px solid #f9ac24;
+  border-radius: 1rem;
+  margin: auto;
+  padding: 0 !important;
+  height: 19vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 70% 70%;
+  box-shadow: inset 0px 1px 8px 0px;
+  background-color: white;
+  flex: 0 0 25%;
+  max-width: 25%;
+}
+.infobox{
+  background: rgb(163,163,167);
+  background: linear-gradient(0deg,rgb(210 210 218) 51%, rgb(255 255 255) 100%);
+  border-radius: 11px;
+  margin-top: -7px !important;
+  box-shadow: 0px 0px 3px 0px #000000c7;
+}
+.creditText{
+	background: #fffffff0;
+    height: 46px;
+    border-radius: 7px;
+    box-shadow: inset 0px 1px 8px 0px;
+}
+.submitLogo{
+  background-image: url('../../assets/icons/lever1.png');
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 76px;
+  width: 92px;
+  margin: auto;
+}
+.submitLogo:hover{
+	background-image: url('../../assets/icons/lever.gif') !important;
+}
+.C{
+	background-image: url('../../assets/tiles/cherry.svg');
+}
+.L{
+	background-image: url('../../assets/tiles/lemon.svg');
+}
+.O{
+	background-image: url('../../assets/tiles/orange.svg');
+}
+.W{
+	background-image: url('../../assets/tiles/watermelon.svg');
+}
+.X{
+	background-image: url('../../assets/tiles/spin1.gif');
+}
